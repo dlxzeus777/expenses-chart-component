@@ -15,11 +15,12 @@ Your users should be able to:
 
 ## Bonus: 
 
-- My solution to the bonus challenge was 'bar.style.height = `${datas[index].amount / 10}rem`;' this. I took the amount data out of the JSON file divided it by 10 and gave the bars height the result.
+- My solution to the bonus challenge was 'bar.style.height = `${datas[index].amount / 10}rem`;' this. I took the amount data out of the JSON file divided it by 10 and gave the bars height the result. I used try and catch in my fetch because on github pages fetch doesn't work so I had to give them different heights.
 
 ## Difficulties:
 
-- I've had difficulties with giving the bar the price while also removing the previous price, but I managed to do it with a foreach in a foreach which isnt the most beautiful solution, but hey it works! :D
+- I've had difficulties with giving the bar the price while also removing the previous price, but I managed to do it with a foreach in a foreach which isnt the most beautiful solution, but hey it works!
+- I don't understand why fetch doesn't work on github pages
 
 ## Live site URL:
 

@@ -129,7 +129,27 @@ main{
     cursor: pointer;
     background-color: hsla(10, 79%, 65%, 0.692);
 }
-
+.first{
+    height: 1.745rem;
+}
+.second{
+    height: 3.491rem;
+}
+.third{
+    height: 5.236rem;
+}
+.forth{
+    height: 3.107rem;
+}
+.fifth{
+    height: 2.339rem;
+}
+.sixth{
+    height: 4.328rem;
+}
+.seventh{
+    height: 2.548rem;
+}
 @media (max-width: 500px)
 {
     main{
