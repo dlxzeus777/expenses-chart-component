@@ -64,7 +64,6 @@ const readJson = async () => {
       })
     });
   }
-
 }
 readJson();
 
