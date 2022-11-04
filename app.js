@@ -36,7 +36,7 @@ const data = [
 const readJson = async () => {
 
   try {
-    const res = await fetch('/data.json');
+    const res = await fetch('data.json');
     const datas = await res.json();
 
 
