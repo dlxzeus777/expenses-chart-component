@@ -24,6 +24,6 @@ Your users should be able to:
 
 ## Live site URL:
 
-- 
+- https://dlxzeus777.github.io/expenses-chart-component/
 
 ## If you have any advice on how can I improve send me a DM on twitter!
